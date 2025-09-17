@@ -55,5 +55,4 @@ By joining them via `Customer_ID`, we can explore trends, peak times, and custom
 ##  How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/salon-spa-analytics.git
-   cd salon-spa-analytics
+   https://github.com/Akhil-1207/Saloon-Spa.git
